@@ -10,8 +10,8 @@ Wir schlagen ungern auf schon gestürzte Gegner, wie Mifare Classic Karten, ein.
 Wir wollen an einem sehr verbreiteten Bezahlsystem die nichtexistente Verschluesselung aufdecken und in dem Zuge den Weg eines Karten-Payloads zu einer entschluesselten Karte zeigen.
 
 #### Links
-* [.robotAttack](http://www.youtube.com/watch?v=EL_XR6wSfT8) - Robot
-* Video (not yet available)
+* [Robot Attack](http://www.youtube.com/watch?v=EL_XR6wSfT8) - Automatisierter Greifarm mit HITEC Digital Servos
+* Video des Talks (in ihrem Land noch nicht verfuegbar)
 
 
 TMT, Bayreuth:
